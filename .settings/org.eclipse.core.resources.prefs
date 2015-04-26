@@ -1,0 +1,13 @@
+#Wed Dec 11 10:10:09 AFT 2013
+eclipse.preferences.version=1
+encoding//application/helpers/cms_helper.php=UTF-8
+encoding//application/libraries/Admin_Controller.php=UTF-8
+encoding//application/models/assistance_m.php=UTF-8
+encoding//application/models/expenditure_m.php=UTF-8
+encoding//application/models/general_m.php=UTF-8
+encoding//application/views/admin/_layout_main.php=UTF-8
+encoding//application/views/admin/assistance/edit.php=UTF-8
+encoding//application/views/admin/assistance/index.php=UTF-8
+encoding//application/views/admin/expenditure/edit.php=UTF-8
+encoding//application/views/admin/expenditure/index.php=UTF-8
+encoding//application/views/site_view.php=UTF-8
