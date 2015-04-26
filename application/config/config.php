@@ -23,7 +23,7 @@ function __autoload($classname){
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'https://localhost:98/pro6/index.php';
 
 /*
 |--------------------------------------------------------------------------
