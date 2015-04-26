@@ -1,5 +1,12 @@
+This project is in its very initial stage, util we fully set up the documentation and code please be patient and allow use to fully provide support and make the application functional and run without errors.
+
+John Graf.
+
 # CMS-CI
 Codeigniter Content Management System
+
+In this project we are using Codeigniter's default Template Parser.
+
 Template Parser Class
 
 The Template Parser Class enables you to parse pseudo-variables contained within your view files. It can parse simple variables or variable tag pairs. If you've never used a template engine, pseudo-variables look like this:
