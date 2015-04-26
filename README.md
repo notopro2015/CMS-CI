@@ -1,4 +1,4 @@
-This project is in its very initial stage, util we fully set up the documentation and code please be patient and allow use to fully provide support and make the application functional and run without errors.
+This project is in its very initial stage, until we fully set up the documentation and code please be patient and allow us to fully provide support and make the application functional and run it without errors.
 
 John Graf.
 
