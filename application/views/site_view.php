@@ -18,9 +18,9 @@
 	</div>
 	<div class="header-text"><h1>کمیسیون مستقل انتخابات</h1>
 	<h1>کمیسیون مستقل انتخابات</h1>
-	<h1>کمیسیون مستقل انتخابات</h1>
-	<h1>کمیسیون مستقل انتخابات</h1>
-	<h1>کمیسیون مستقل انتخابات</h1>
+	<h1>This will be changed to English</h1>
+	<h1>This is only a header file</h1>
+	<h1>This is a header file</h1>
 	<h2>سیستم مدیریت مالی و گزارش دهی مبارزات انتخاباتی <br />کاندیدان ریاست جمهوری و شوراهای ولایتی سال ۱۳۹۳</h2>
 	<h2>2014 Campaign Financial Management & Reporting System</h2>
 	</div>
